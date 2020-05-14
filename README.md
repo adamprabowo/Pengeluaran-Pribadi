@@ -1,10 +1,16 @@
-# Pengeluaran-Pribadi
-Flutter Mobile Apps Pengeluaran Pribadi 
+# flutter_complete_guide
 
-<p align="center">
-  <img width="210px" height="400px" hspace="25" src="https://user-images.githubusercontent.com/17192766/81887039-7fe60400-95c8-11ea-80cb-72e540974c2b.jpg">
+A new Flutter project.
 
-  <img width="210px" height="400px" hspace="25" src="https://user-images.githubusercontent.com/17192766/81887061-8eccb680-95c8-11ea-9a59-390977e361b2.jpg">
-  
-  <img width="210px" height="400px" hspace="25" src="https://user-images.githubusercontent.com/17192766/81887080-95f3c480-95c8-11ea-9025-7418108c4732.jpg">
-</p>
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
